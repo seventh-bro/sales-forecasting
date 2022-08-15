@@ -1,1 +1,18 @@
-# sales-forecasting[README.md](https://github.com/seventh-bro/sales-forecasting/files/9338635/README.md)
+# 4 Machine Learning Techniques for Forecasting Sales 
+
+## Objective: 
+Predict the number of monthly product sales using regressive and time-series modeling techniques
+
+## Featured Techniques:
+* EDA
+* Linear Regression
+* Random Forest Regression
+* XGBoost
+* Long Short Term Memory (artifical recurrent neural network)
+
+## Results:
+* Best results were obtained from the XGBoost and LSTM models
+* All models predicted within 2% of monthly mean sales for 12 month prediction
+
+## Data Source: 
+https://www.kaggle.com/c/demand-forecasting-kernels-only/data
